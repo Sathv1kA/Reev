@@ -1,2 +1,2 @@
-# Fan Game Micheal  Reaves
+# Fan Game Micheal  Reeves
 Micheal game
